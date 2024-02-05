@@ -5,7 +5,8 @@ Użyte w projekcie kernele wykonują operacje:
 ### 1. Obliczanie histogramu
 Zdjęcia oryginalne:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png
+
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 Czas wykonania:
@@ -25,6 +26,7 @@ Czas wykonania:
 ### 4. Rozszerzenie liniowe
 
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 Czas wykonania:
 
 
