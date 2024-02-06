@@ -9,24 +9,24 @@ Zdjęcie oryginalne:
 
 ### 2. Operacja liniowa
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](zdjęcia/test_linear.jpg)
 
 ### 3. Wyrównanie histogramu
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](zdjęcia/equal_test.jpg)
 
 ### 4. Rozszerzenie liniowe
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](zdjęcia/stretched_test.jpg)
 
 ### 5. Rozszerzenie nieliniowe
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](zdjęcia/stretched_nonlinear_test.jpg)
 
 ### 6. Progowanie
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](zdjęcia/threshold_test.jpg)
 
 ### 7. Inwersja
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](zdjęcia/inverted_test.jpg)
