@@ -5,7 +5,7 @@ Użyte w projekcie kernele wykonują operacje:
 ### 1. Obliczanie wartości histogramu
 Zdjęcie oryginalne:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png
+![alt text](zdjęcia/test.jpg)
 
 ### 2. Operacja liniowa
 
